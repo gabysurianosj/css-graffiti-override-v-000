@@ -6,3 +6,19 @@
 }
 
 /*Tag 2 -> 200*/
+body #wall #tag-2 { 
+  display:none;
+}
+
+div#wall div#tag-3.slick, .wicked {
+  display:none;
+}
+
+#wall .parent #tag-4 {
+  display:none;
+}
+
+div#wall div.parent div#tag-5.slick {
+  display:none; 
+}
+}
